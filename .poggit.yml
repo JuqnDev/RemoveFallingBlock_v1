@@ -2,5 +2,7 @@
 build-by-default: true
 branches:
 - master
-projects: []
+projects:
+  RemoveFallingBlock_v1:
+    path: ""
 ...
