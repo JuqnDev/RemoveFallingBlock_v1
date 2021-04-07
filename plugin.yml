@@ -1,0 +1,4 @@
+name: RemoveFallingBlock
+version: 1.0
+main: juqn\Loader
+api: 3.0.0
